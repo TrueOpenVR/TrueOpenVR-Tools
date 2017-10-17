@@ -1,0 +1,1 @@
+DisplayControl.exe /on
